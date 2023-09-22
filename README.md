@@ -4,5 +4,12 @@
 
 # Screenshots
 
-<img src="[https://media.discordapp.net/attachments/1067446309780476004/1154632774439927838/brave_UYBvTJSAvc.png]" />
+<img src="https://raw.githubusercontent.com/2013Windows81/OldFBFavicon/main/preview.png"/>
 
+#Instructions/Installations
+
+1. <strong>Install [Tampermonkey](https://www.tampermonkey.net/)</strong>
+
+2. <strong>now Click on the [OldFBFavicons]() and Click Install</strong>
+
+3. <strong>and you're done</strong>
