@@ -12,9 +12,9 @@
 
 1. <strong>Install [Tampermonkey](https://www.tampermonkey.net/)</strong>
 
-2. <strong>Open the [file](https://raw.githubusercontent.com/2013Windows81/OldFBFavicon/main/Old%20Facebook%20Favicon.user.js)
+2. <strong>Open the [file](https://raw.githubusercontent.com/2013Windows81/OldFBFavicon/main/Old%20Facebook%20Favicon.user.js)</strong>
    
-3. <strong>Click the raw, If tampermonkey Pop-up, click Install
+3. <strong>click Install and restart the Facebook and you're done</strong>
 
 4. done
 
