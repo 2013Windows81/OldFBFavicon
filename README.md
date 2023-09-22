@@ -8,8 +8,7 @@
 
 #Instructions/Installations
 
-<details>
-<summary><small>Auto Installations</small></summary><p>
+### Auto Installations
 
 1. <strong>Install [Tampermonkey](https://www.tampermonkey.net/)</strong>
 
@@ -19,8 +18,7 @@
 
 4. done
 
-<details>
-<summary><small>Manual installation (New theme)</small></summary><p>
+### Manual installation 
 
 <strong>If tapermonkey Not Showing up after clicking the Raw, do this<strong>
 
