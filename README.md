@@ -14,7 +14,7 @@
 
 2. <strong>Open the [file](https://raw.githubusercontent.com/2013Windows81/OldFBFavicon/main/Old%20Facebook%20Favicon.user.js)</strong>
    
-3. <strong>click Install and restart the Facebook and you're done</strong>
+3. <strong>If tampermonkey Pop-up, click Install and restart the Facebook and you're done</strong>
 
 4. done
 
